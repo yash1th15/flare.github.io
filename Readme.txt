@@ -1,4 +1,4 @@
-FLAME Innovations
+FLARE Innovations
 A portfolio website for a startup company.
 
 
